@@ -1,6 +1,6 @@
 # DisableGoogleServices
 
-This module disables some specific Google Services. The following, which contain these key words, are disabled:
+This module disables some specific Google Services. The services, which contain these key words, are disabled:
 
 - SystemUpdate
 - Ads
