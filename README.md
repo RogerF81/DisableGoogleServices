@@ -5,4 +5,5 @@ This module disables some specific Google Services. The services, which contain 
 - SystemUpdate
 - Ads
 - Analytics
-- Feedback
+
+More to come in future.
