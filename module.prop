@@ -3,5 +3,5 @@ name=DisableGoogleServices Module
 version=v1
 versionCode=1
 author=RogerF81
-description=Disables some specific Google Services. These are the following: SystemUpdate, Ads, Analytics, and Feedback services.
+description=Disables some specific Google Services.
 template=1400
